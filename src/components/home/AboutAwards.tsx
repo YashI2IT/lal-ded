@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { fadeUp, scaleUp } from '../../lib/animations';
+import { fadeUp } from '../../lib/animations';
 
 export default function AboutAwards() {
   return (

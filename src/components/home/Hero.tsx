@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { fadeUp, fadeIn } from '../../lib/animations';
-import { FaCalendarAlt, FaMapMarkerAlt, FaClock } from 'react-icons/fa';
+import { FaCalendarAlt, FaMapMarkerAlt } from 'react-icons/fa';
 
 export default function Hero() {
   return (
